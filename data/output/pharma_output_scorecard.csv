@@ -1,0 +1,7 @@
+name,scorecard_aggregate,scorecard_rating,factor_scale,factor_business_profile,factor_leverage_coverage,factor_financial_policy,sf_scale_revenue,sf_product_therapeutic_diversity,sf_geographic_diversity,sf_patent_exposures,sf_pipeline_quality,sf_debt_ebitda,sf_rcf_net_debt,sf_ebit_interest,sf_financial_policy,inputs_liquidity_ratio_3y,delta_other_considerations_soft,delta_total_adjustment,final_adjusted_score,final_assigned_rating
+AstraZeneca plc,5.655,A2,2.535,6.0,6.358,9.0,2.535,6.0,3.0,9.0,6.0,6.755,2.525,9.398,9.0,1.3631059628672024,0.25,0.25,5.405,A1
+Johnson & Johnson,2.441,Aa1,1.5,2.75,2.579,3.0,1.5,1.0,1.0,6.0,3.0,4.244,0.5,1.33,3.0,1.99936181857286,0.5,0.5,1.941,Aa1
+Pfizer Inc.,6.116,A2,1.513,7.5,9.188,6.0,1.513,6.0,3.0,12.0,9.0,11.151,3.975,10.475,6.0,1.8170536343231274,0.0,0.0,6.116,A2
+Roche Holding AG,4.464,Aa3,1.5,6.0,3.943,6.0,1.5,6.0,3.0,9.0,6.0,5.539,0.5,4.194,6.0,1.9163708880700456,0.75,0.75,3.714,Aa3
+Takeda Pharmaceutical Co.,9.139,Baa2,4.812,10.5,11.929,9.0,4.812,9.0,9.0,12.0,12.0,13.159,7.979,13.419,9.0,1.1528060111527554,0.0,0.0,9.139,Baa2
+Novartis AG,5.807,A2,2.645,6.75,5.477,9.0,2.645,6.0,3.0,12.0,6.0,4.703,0.5,12.0,9.0,1.74343,0.25,0.25,5.557,A2

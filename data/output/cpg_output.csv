@@ -1,0 +1,10 @@
+name,scorecard_aggregate,scorecard_rating,factor_scale,factor_business_profile,factor_profitability,factor_leverage_coverage,factor_financial_policy,sf_revenue_scale,sf_geographic_diversification,sf_segmental_diversification,sf_market_position,sf_category_assessment,sf_ebita_margin,sf_debt_ebitda,sf_rcf_net_debt,sf_ebita_interest,sf_financial_policy,inputs_liquidity_ratio_3y,delta_other_considerations_soft,final_adjusted_score,final_assigned_rating
+Nestl√© SA,4.556,A1,0.5,2.0,10.427,7.655,6.0,0.5,1.0,3.0,3.0,1.0,10.427,9.928,5.511,6.767,6.0,2.4959696024603666,1.0,3.556,Aa3
+Unilever plc,5.162,A1,1.329,4.0,9.202,5.705,9.0,1.329,3.0,3.0,6.0,6.0,9.202,7.367,3.246,5.948,9.0,5.155420165113049,0.75,4.412,Aa3
+Procter & Gamble Co.,4.203,Aa3,0.893,5.0,4.986,2.705,9.0,0.893,3.0,6.0,6.0,6.0,4.986,4.512,1.5,1.5,9.0,10.936229627630489,0.25,3.953,Aa3
+Coca-Cola Co.,4.664,A1,2.794,4.0,1.593,5.584,9.0,2.794,3.0,3.0,3.0,9.0,1.593,8.347,1.503,5.983,9.0,1.5217800000000018e+16,0.0,4.664,A1
+PepsiCo Inc.,5.253,A1,0.704,4.0,12.046,5.431,9.0,0.704,3.0,3.0,3.0,9.0,12.046,8.184,3.271,3.919,9.0,4.166750832946995,0.25,5.003,A1
+Colgate-Palmolive Co.,6.346,A2,5.985,6.5,7.868,4.248,9.0,5.985,6.0,6.0,6.0,9.0,7.868,6.202,2.194,3.698,9.0,4681000000000000.0,0.25,6.096,A2
+Mondelez International,8.077,Baa1,3.856,9.5,9.728,6.732,12.0,3.856,9.0,9.0,9.0,12.0,9.728,8.589,6.033,4.956,12.0,4.843850261200696,0.25,7.827,Baa1
+Danone SA,7.806,Baa1,4.489,6.5,15.251,8.335,9.0,4.489,6.0,6.0,6.0,9.0,15.251,10.274,4.394,9.69,9.0,2.412790550459353,0.75,7.056,A3
+Starbucks Corp.,8.358,Baa1,3.782,7.0,13.802,9.288,12.0,3.782,6.0,6.0,6.0,12.0,13.802,12.768,6.128,7.807,12.0,3.234515948500988,0.0,8.358,Baa1

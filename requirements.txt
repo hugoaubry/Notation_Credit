@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+fpdf
+numpy
+openpyxl
+xlrd
+tqdm
+scikit-learn
+matplotlib
+requests
+PyPDF2

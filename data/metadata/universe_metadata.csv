@@ -1,0 +1,94 @@
+name;sector;country;lat;lon;moody_rating
+Apple Inc.;Technology;United States;37.3229;-122.0322;Aaa
+Samsung Electronics Co.;Technology;South Korea;37.2636;127.0286;Aa2
+Taiwan Semiconductor Manufacturing (TSMC);Technology;Taiwan;24.8138;120.9675;Aa3
+Microsoft Corp.;Technology;United States;47.673988;-122.121513;Aaa
+Broadcom Inc.;Technology;United States;37.3382;-121.8863;A3
+Alphabet Inc. (Google);Technology;United States;37.4220;-122.0841;Aa2
+Intel Corp.;Technology;United States;37.3870;-121.9630;Baa2
+ASML Holding NV;Technology;Netherlands;51.4180;5.5591;A1
+;;;;;
+JPMorgan Chase & Co.;Banks;United States;40.7128;-74.0060;Aa2
+HSBC Holdings plc;Banks;United Kingdom;51.5074;-0.1278;A3
+BNP Paribas SA;Banks;France;48.8566;2.3522;A1
+Bank of America Corp.;Banks;United States;35.2271;-80.8431;A1
+Mitsubishi UFJ Financial Group;Banks;Japan;35.6895;139.6917;A1
+Banco Santander SA;Banks;Spain;40.4168;-3.7038;Baa1
+Royal Bank of Canada (RBC);Banks;Canada;43.6532;-79.3832;Aa2
+ICBC;Banks;China;39.9042;116.4074;A1
+;;;;;
+Exxon Mobil Corp.;Oil & Gas;United States;32.8140;-96.9489;Aa2
+Shell plc;Oil & Gas;United Kingdom;51.5074;-0.1278;Aa2
+Saudi Aramco;Oil & Gas;Saudi Arabia;26.2361;50.0393;Aa3
+Chevron Corp.;Oil & Gas;United States;37.7799;-121.9780;A2
+BP plc;Oil & Gas;United Kingdom;51.5074;-0.1278;A1
+TotalEnergies SE;Oil & Gas;France;48.8566;2.3522;Aa3
+PetroChina Co. Ltd.;Oil & Gas;China;39.9042;116.4074;A2
+Reliance Industries Ltd.;Oil & Gas;India;19.0760;72.8777;Baa2
+;;;;;
+Enel SpA;Regulated Energy;Italy;41.9028;12.4964;Baa1
+Engie SA;Regulated Energy;France;48.8566;2.3522;Baa1
+NextEra Energy Inc.;Regulated Energy;United States;26.8798;-80.0534;Baa1
+EDF;Regulated Energy;France;48.8566;2.3522;Baa1
+Iberdrola SA;Regulated Energy;Spain;43.2630;-2.9360;Baa1
+National Grid plc;Regulated Energy;United Kingdom;51.5074;-0.1278;Baa2
+Duke Energy Corp.;Regulated Energy;United States;35.2271;-80.8431;Baa2
+Tokyo Electric Power Co. (TEPCO);Regulated Energy;Japan;35.6895;139.6917;Baa3
+CLP Holdings Ltd.;Regulated Energy;Hong Kong;22.3193;114.1694;A2
+;;;;;
+LVMH;Retail & Apparel;France;48.8566;2.3522;Aa3
+Nike Inc.;Retail & Apparel;United States;45.4860;-122.8037;A2
+Inditex SA;Retail & Apparel;Spain;43.3045;-8.5074;
+Hermes International;Retail & Apparel;France;48.8566;2.3522;
+Adidas AG;Retail & Apparel;Germany;49.5673;10.8833;A2
+Amazon.com Inc.;Retail & Apparel;United States;47.6062;-122.3321;A1
+Starbucks Corp.;Retail & Apparel;United States;47.6062;-122.3321;Baa1
+The Home Depot Inc.;Retail & Apparel;United States;33.7490;-84.3880;A2
+;;;;;
+Nestlé SA;Consumer Goods;Switzerland;46.4630;6.8432;Aa3
+Unilever plc;Consumer Goods;United Kingdom;51.5074;-0.1278;A1
+Procter & Gamble Co.;Consumer Goods;United States;39.1031;-84.5120;Aa3
+Coca-Cola Co.;Consumer Goods;United States;33.7490;-84.3880;A1
+PepsiCo Inc.;Consumer Goods;United States;41.0400;-73.7150;A1
+Colgate-Palmolive Co.;Consumer Goods;United States;40.7128;-74.0060;A2
+Mondelez International;Consumer Goods;United States;41.8781;-87.6298;Baa1
+Danone SA;Consumer Goods;France;48.8566;2.3522;Baa1
+;;;;;
+Toyota;Automobile;Japan;35.0830;137.1560;A1
+Volkswagen AG;Automobile;Germany;52.4227;10.7865;Baa1
+Ford Motor Co.;Automobile;United States;42.3220;-83.1760;Ba1
+General Motors Co.;Automobile;United States;42.3314;-83.0458;Baa3
+BMW AG;Automobile;Germany;48.1351;11.5820;A2
+Mercedes-Benz Group AG;Automobile;Germany;48.7758;9.1829;A2
+Hyundai Motor Co.;Automobile;South Korea;37.5665;126.9780;A3
+BYD Co. Ltd.;Automobile;China;22.5431;114.0579;
+;;;;;
+Vale SA;Mining;Brazil;-22.9068;-43.1729;Baa2
+BHP Group Ltd.;Mining;Australia;-37.8136;144.9631;A1
+Rio Tinto plc;Mining;United Kingdom;51.5074;-0.1278;A2
+Glencore plc;Mining;Switzerland;47.1960;8.5260;A3
+Anglo American plc;Mining;United Kingdom;51.5074;-0.1278;Baa2
+Freeport-McMoRan Inc.;Mining;United States;33.4484;-112.0740;Baa2
+Barrick Gold Corp.;Mining;Canada;43.6532;-79.3832;Baa2
+Fortescue Metals Group Ltd.;Mining;Australia;-31.9523;115.8613;Baa1
+;;;;;
+Johnson & Johnson;Pharmaceuticals;United States;40.4862;-74.4518;Aaa
+Pfizer Inc.;Pharmaceuticals;United States;40.7128;-74.0060;A2
+Roche Holding AG;Pharmaceuticals;Switzerland;47.5596;7.5886;Aa2
+Novartis AG;Pharmaceuticals;Switzerland;47.5596;7.5886;A1
+AstraZeneca plc;Pharmaceuticals;United Kingdom;52.2053;0.1218;A1
+Takeda Pharmaceutical Co.;Pharmaceuticals;Japan;35.6895;139.6917;Baa1
+;;;;;
+Verizon Communications;Telecommunications;United States;40.7128;-74.0060;Baa1
+AT&T Inc.;Telecommunications;United States;32.7767;-96.7970;Baa2
+Deutsche Telekom AG;Telecommunications;Germany;50.7374;7.0982;A3
+Orange SA;Telecommunications;France;48.8566;2.3522;Baa1
+NTT Corp.;Telecommunications;Japan;35.6895;139.6917;A3
+China Mobile Ltd.;Telecommunications;China;22.3193;114.1694;A1
+;;;;;
+Siemens AG;Industrials;Germany;48.1351;11.5820;Baa2
+General Electric (GE);Industrials;United States;42.3601;-71.0589;Baa1
+Caterpillar Inc.;Industrials;United States;42.1700;-87.8490;A2
+Hitachi Ltd.;Industrials;Japan;35.6895;139.6917;A3
+Vinci SA;Industrials;France;48.8765;2.1774;A3
+ABB Ltd.;Industrials;Switzerland;47.3769;8.5417;A2

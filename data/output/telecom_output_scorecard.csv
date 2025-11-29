@@ -1,0 +1,6 @@
+name,scorecard_aggregate,scorecard_rating,factor_scale,factor_business_profile,factor_profitability_efficiency,factor_leverage_coverage,factor_financial_policy,sf_revenue,sf_business_profile,sf_ebit_margin,sf_ebitda_interest,sf_fcf_debt,sf_debt_ebitda,sf_financial_policy,inputs_liquidity_ratio_3y,delta_other_considerations_soft,final_adjusted_score,final_assigned_rating
+AT&T.,8.982,Baa2,1.5,6.0,13.417,12.467,12.0,1.5,6.0,13.417,11.581,11.706,14.116,12.0,2.342310186761766,0.0,8.982,Baa2
+China Mobile Ltd.,3.394,Aa2,1.5,3.0,9.315,1.207,6.0,1.5,3.0,9.315,1.357,0.576,1.687,6.0,6.488781648766189,-0.75,4.144,Aa3
+Deutsche Telekom AG,7.839,Baa1,1.5,6.0,9.302,12.03,9.0,1.5,6.0,9.302,10.142,12.838,13.109,9.0,1.9826123092920547,0.75,7.089,A3
+NTT Corp.,6.889,A3,1.5,6.0,10.922,10.323,6.0,1.5,6.0,10.922,3.034,15.81,12.125,6.0,0.9813755034098812,0.0,6.889,A3
+Verizon Communications,7.641,Baa1,1.5,6.0,7.428,11.995,9.0,1.5,6.0,7.428,9.533,12.44,14.012,9.0,1.4540799493646246,0.5,7.141,A3

@@ -1,0 +1,9 @@
+name,scorecard_aggregate,scorecard_rating,factor_scale,factor_business_profile,factor_profitability_efficiency,factor_leverage_coverage,factor_financial_policy,sf_revenue_scale,sf_business_profile,sf_ebit_margin,sf_debt_ebitda,sf_fcf_debt,sf_ebitda_int,sf_financial_policy,inputs_liquidity_ratio_3y,delta_other_considerations_soft,final_adjusted_score,final_assigned_rating
+Apple Inc.,1.726,Aa1,1.5,1.0,1.414,2.95,1.0,1.5,1.0,1.414,6.693,0.946,1.21,1.0,4.441109602468262,0.25,1.476,Aaa
+Alphabet Inc. (Google),2.313,Aa1,1.5,3.0,1.409,2.239,3.0,1.5,3.0,1.409,4.456,0.982,1.281,3.0,2.9058960581954527,-0.25,2.563,Aa2
+Samsung Electronics Co.,3.45,Aa2,1.5,3.0,3.72,3.26,6.0,1.5,3.0,3.72,0.867,6.354,2.561,6.0,3.565857914181043,0.0,3.45,Aa2
+TSMC,3.137,Aa2,1.5,6.0,0.903,1.155,6.0,1.5,6.0,0.903,2.12,0.802,0.544,6.0,3.8010138230749577,0.0,3.137,Aa2
+Microsoft Corp.,1.581,Aa1,1.5,1.0,1.15,1.219,3.0,1.5,1.0,1.15,2.263,0.5,0.895,3.0,6.468013334260795,0.25,1.331,Aaa
+ASML,5.779,A2,5.842,3.0,1.393,10.904,3.0,5.842,3.0,1.393,19.198,12.746,0.767,3.0,0.5310854446464899,-0.5,6.279,A2
+Intel Corp.,8.492,Baa1,1.5,9.0,6.352,13.191,9.0,1.5,9.0,6.352,17.521,19.592,2.459,9.0,0.7720330011681865,-0.75,9.242,Baa2
+Broadcom Inc.,5.924,A2,4.18,6.0,1.097,6.593,9.0,4.18,6.0,1.097,12.855,2.954,3.971,9.0,2.0043889746939776,0.0,5.924,A2
